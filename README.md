@@ -9,7 +9,7 @@ Will be continually adding on to the website for any projects I want to host or 
 
 - [ ] Add blog page
 
-- [ ] Add Google Analytics
+- [x] Add Google Analytics
 
 - [ ] Create a web app
 
